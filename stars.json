@@ -1,45 +1,45 @@
 [
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 484,
+    "stargazers_count": 485,
     "open_issues_count": 35,
-    "forks_count": 139
+    "forks_count": 141
   },
   {
     "full_name": "Asana/python-asana",
-    "stargazers_count": 228,
+    "stargazers_count": 229,
     "open_issues_count": 8,
     "forks_count": 67
   },
   {
     "full_name": "facebook/create-react-app",
-    "stargazers_count": 90025,
-    "open_issues_count": 1213,
-    "forks_count": 22702
+    "stargazers_count": 90101,
+    "open_issues_count": 1222,
+    "forks_count": 22728
   },
   {
     "full_name": "wechat-miniprogram/miniprogram-demo",
-    "stargazers_count": 5041,
+    "stargazers_count": 5046,
     "open_issues_count": 26,
-    "forks_count": 1724
+    "forks_count": 1725
   },
   {
     "full_name": "github/opensource.guide",
-    "stargazers_count": 8841,
-    "open_issues_count": 9,
-    "forks_count": 11482
+    "stargazers_count": 8854,
+    "open_issues_count": 8,
+    "forks_count": 11530
   },
   {
     "full_name": "typicode/json-server",
-    "stargazers_count": 56131,
-    "open_issues_count": 586,
-    "forks_count": 5426
+    "stargazers_count": 56203,
+    "open_issues_count": 585,
+    "forks_count": 5436
   },
   {
     "full_name": "jimmysuncpt/Algorithms",
-    "stargazers_count": 1943,
+    "stargazers_count": 1944,
     "open_issues_count": 6,
-    "forks_count": 642
+    "forks_count": 641
   },
   {
     "full_name": "ilithya/abstract-sketches-p5js",
@@ -49,7 +49,7 @@
   },
   {
     "full_name": "microbium/microbium-app",
-    "stargazers_count": 80,
+    "stargazers_count": 81,
     "open_issues_count": 0,
     "forks_count": 3
   },
@@ -57,24 +57,24 @@
     "full_name": "duty-machine/duty-machine",
     "stargazers_count": 486,
     "open_issues_count": 1980,
-    "forks_count": 79
+    "forks_count": 80
   },
   {
     "full_name": "Huxpro/huxpro.github.io",
-    "stargazers_count": 5930,
-    "open_issues_count": 102,
-    "forks_count": 4046
+    "stargazers_count": 5931,
+    "open_issues_count": 101,
+    "forks_count": 4049
   },
   {
     "full_name": "realpython/python-guide",
-    "stargazers_count": 23516,
+    "stargazers_count": 23548,
     "open_issues_count": 97,
-    "forks_count": 5680
+    "forks_count": 5683
   },
   {
     "full_name": "webpack/webpack",
-    "stargazers_count": 59197,
-    "open_issues_count": 311,
-    "forks_count": 7984
+    "stargazers_count": 59228,
+    "open_issues_count": 313,
+    "forks_count": 7990
   }
 ]
