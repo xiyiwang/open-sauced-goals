@@ -1,8 +1,8 @@
 [
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 489,
-    "open_issues_count": 31,
+    "stargazers_count": 490,
+    "open_issues_count": 32,
     "forks_count": 140
   },
   {
@@ -13,31 +13,31 @@
   },
   {
     "full_name": "facebook/create-react-app",
-    "stargazers_count": 90389,
+    "stargazers_count": 90441,
     "open_issues_count": 1239,
-    "forks_count": 22837
+    "forks_count": 22863
   },
   {
     "full_name": "wechat-miniprogram/miniprogram-demo",
-    "stargazers_count": 5080,
+    "stargazers_count": 5086,
     "open_issues_count": 26,
-    "forks_count": 1732
+    "forks_count": 1731
   },
   {
     "full_name": "github/opensource.guide",
-    "stargazers_count": 8917,
-    "open_issues_count": 4,
-    "forks_count": 11698
+    "stargazers_count": 8925,
+    "open_issues_count": 7,
+    "forks_count": 11724
   },
   {
     "full_name": "typicode/json-server",
-    "stargazers_count": 56456,
+    "stargazers_count": 56517,
     "open_issues_count": 586,
-    "forks_count": 5459
+    "forks_count": 5464
   },
   {
     "full_name": "jimmysuncpt/Algorithms",
-    "stargazers_count": 1947,
+    "stargazers_count": 1949,
     "open_issues_count": 6,
     "forks_count": 643
   },
@@ -57,24 +57,24 @@
     "full_name": "duty-machine/duty-machine",
     "stargazers_count": 486,
     "open_issues_count": 1980,
-    "forks_count": 81
+    "forks_count": 80
   },
   {
     "full_name": "Huxpro/huxpro.github.io",
-    "stargazers_count": 5937,
+    "stargazers_count": 5938,
     "open_issues_count": 101,
-    "forks_count": 4056
+    "forks_count": 4059
   },
   {
     "full_name": "realpython/python-guide",
-    "stargazers_count": 23615,
+    "stargazers_count": 23639,
     "open_issues_count": 97,
-    "forks_count": 5688
+    "forks_count": 5685
   },
   {
     "full_name": "webpack/webpack",
-    "stargazers_count": 59339,
-    "open_issues_count": 276,
-    "forks_count": 8009
+    "stargazers_count": 59366,
+    "open_issues_count": 275,
+    "forks_count": 8008
   }
 ]
