@@ -1,8 +1,8 @@
 [
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 495,
-    "open_issues_count": 27,
+    "stargazers_count": 497,
+    "open_issues_count": 25,
     "forks_count": 144
   },
   {
@@ -13,27 +13,27 @@
   },
   {
     "full_name": "facebook/create-react-app",
-    "stargazers_count": 90823,
-    "open_issues_count": 1267,
-    "forks_count": 22963
+    "stargazers_count": 90864,
+    "open_issues_count": 1273,
+    "forks_count": 22986
   },
   {
     "full_name": "wechat-miniprogram/miniprogram-demo",
-    "stargazers_count": 5112,
+    "stargazers_count": 5116,
     "open_issues_count": 26,
-    "forks_count": 1734
+    "forks_count": 1735
   },
   {
     "full_name": "github/opensource.guide",
-    "stargazers_count": 9013,
+    "stargazers_count": 9022,
     "open_issues_count": 0,
-    "forks_count": 11967
+    "forks_count": 11999
   },
   {
     "full_name": "typicode/json-server",
-    "stargazers_count": 56800,
-    "open_issues_count": 589,
-    "forks_count": 5486
+    "stargazers_count": 56848,
+    "open_issues_count": 590,
+    "forks_count": 5487
   },
   {
     "full_name": "jimmysuncpt/Algorithms",
@@ -49,32 +49,32 @@
   },
   {
     "full_name": "microbium/microbium-app",
-    "stargazers_count": 82,
+    "stargazers_count": 83,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "duty-machine/duty-machine",
-    "stargazers_count": 483,
+    "stargazers_count": 482,
     "open_issues_count": 1980,
     "forks_count": 80
   },
   {
     "full_name": "Huxpro/huxpro.github.io",
-    "stargazers_count": 5960,
+    "stargazers_count": 5965,
     "open_issues_count": 102,
     "forks_count": 4055
   },
   {
     "full_name": "realpython/python-guide",
-    "stargazers_count": 23727,
+    "stargazers_count": 23736,
     "open_issues_count": 97,
     "forks_count": 5703
   },
   {
     "full_name": "webpack/webpack",
-    "stargazers_count": 59561,
-    "open_issues_count": 296,
-    "forks_count": 8028
+    "stargazers_count": 59575,
+    "open_issues_count": 297,
+    "forks_count": 8036
   }
 ]
