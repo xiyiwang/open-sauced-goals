@@ -1,9 +1,9 @@
 [
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 558,
-    "open_issues_count": 25,
-    "forks_count": 159
+    "stargazers_count": 562,
+    "open_issues_count": 26,
+    "forks_count": 160
   },
   {
     "full_name": "Asana/python-asana",
@@ -13,31 +13,31 @@
   },
   {
     "full_name": "facebook/create-react-app",
-    "stargazers_count": 92639,
-    "open_issues_count": 1448,
-    "forks_count": 23541
+    "stargazers_count": 92717,
+    "open_issues_count": 1455,
+    "forks_count": 23563
   },
   {
     "full_name": "wechat-miniprogram/miniprogram-demo",
-    "stargazers_count": 5222,
+    "stargazers_count": 5230,
     "open_issues_count": 26,
-    "forks_count": 1770
+    "forks_count": 1772
   },
   {
     "full_name": "github/opensource.guide",
-    "stargazers_count": 9895,
-    "open_issues_count": 9,
-    "forks_count": 13088
+    "stargazers_count": 10003,
+    "open_issues_count": 11,
+    "forks_count": 13135
   },
   {
     "full_name": "typicode/json-server",
-    "stargazers_count": 58818,
-    "open_issues_count": 608,
-    "forks_count": 5708
+    "stargazers_count": 58898,
+    "open_issues_count": 609,
+    "forks_count": 5719
   },
   {
     "full_name": "jimmysuncpt/Algorithms",
-    "stargazers_count": 2004,
+    "stargazers_count": 2005,
     "open_issues_count": 7,
     "forks_count": 650
   },
@@ -61,20 +61,20 @@
   },
   {
     "full_name": "Huxpro/huxpro.github.io",
-    "stargazers_count": 6051,
-    "open_issues_count": 104,
-    "forks_count": 4097
+    "stargazers_count": 6054,
+    "open_issues_count": 106,
+    "forks_count": 4103
   },
   {
     "full_name": "realpython/python-guide",
-    "stargazers_count": 24136,
+    "stargazers_count": 24148,
     "open_issues_count": 103,
-    "forks_count": 5737
+    "forks_count": 5738
   },
   {
     "full_name": "webpack/webpack",
-    "stargazers_count": 60168,
-    "open_issues_count": 308,
-    "forks_count": 8156
+    "stargazers_count": 60191,
+    "open_issues_count": 313,
+    "forks_count": 8163
   }
 ]
