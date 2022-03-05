@@ -3,7 +3,7 @@
     "full_name": "open-sauced/open-sauced",
     "stargazers_count": 595,
     "open_issues_count": 29,
-    "forks_count": 192
+    "forks_count": 194
   },
   {
     "full_name": "Asana/python-asana",
@@ -13,31 +13,31 @@
   },
   {
     "full_name": "facebook/create-react-app",
-    "stargazers_count": 93669,
-    "open_issues_count": 1505,
-    "forks_count": 24009
+    "stargazers_count": 93733,
+    "open_issues_count": 1511,
+    "forks_count": 24026
   },
   {
     "full_name": "wechat-miniprogram/miniprogram-demo",
-    "stargazers_count": 5299,
+    "stargazers_count": 5303,
     "open_issues_count": 26,
     "forks_count": 1793
   },
   {
     "full_name": "github/opensource.guide",
-    "stargazers_count": 10225,
-    "open_issues_count": 7,
-    "forks_count": 13861
+    "stargazers_count": 10233,
+    "open_issues_count": 1,
+    "forks_count": 13895
   },
   {
     "full_name": "typicode/json-server",
-    "stargazers_count": 59829,
+    "stargazers_count": 59875,
     "open_issues_count": 609,
-    "forks_count": 5827
+    "forks_count": 5832
   },
   {
     "full_name": "jimmysuncpt/Algorithms",
-    "stargazers_count": 2021,
+    "stargazers_count": 2022,
     "open_issues_count": 7,
     "forks_count": 650
   },
@@ -55,26 +55,26 @@
   },
   {
     "full_name": "duty-machine/duty-machine",
-    "stargazers_count": 491,
+    "stargazers_count": 490,
     "open_issues_count": 1980,
     "forks_count": 90
   },
   {
     "full_name": "Huxpro/huxpro.github.io",
-    "stargazers_count": 6119,
+    "stargazers_count": 6121,
     "open_issues_count": 107,
     "forks_count": 4136
   },
   {
     "full_name": "realpython/python-guide",
-    "stargazers_count": 24405,
+    "stargazers_count": 24423,
     "open_issues_count": 104,
-    "forks_count": 5745
+    "forks_count": 5747
   },
   {
     "full_name": "webpack/webpack",
-    "stargazers_count": 60573,
-    "open_issues_count": 291,
-    "forks_count": 8237
+    "stargazers_count": 60585,
+    "open_issues_count": 284,
+    "forks_count": 8247
   }
 ]
