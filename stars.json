@@ -1,43 +1,43 @@
 [
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 623,
+    "stargazers_count": 631,
     "open_issues_count": 27,
     "forks_count": 206
   },
   {
     "full_name": "Asana/python-asana",
-    "stargazers_count": 242,
+    "stargazers_count": 243,
     "open_issues_count": 12,
     "forks_count": 72
   },
   {
     "full_name": "facebook/create-react-app",
-    "stargazers_count": 94144,
-    "open_issues_count": 1546,
-    "forks_count": 24198
+    "stargazers_count": 94210,
+    "open_issues_count": 1556,
+    "forks_count": 24222
   },
   {
     "full_name": "wechat-miniprogram/miniprogram-demo",
-    "stargazers_count": 5349,
-    "open_issues_count": 26,
-    "forks_count": 1805
+    "stargazers_count": 5357,
+    "open_issues_count": 27,
+    "forks_count": 1806
   },
   {
     "full_name": "github/opensource.guide",
-    "stargazers_count": 10319,
-    "open_issues_count": 1,
-    "forks_count": 14190
+    "stargazers_count": 10336,
+    "open_issues_count": 0,
+    "forks_count": 14260
   },
   {
     "full_name": "typicode/json-server",
-    "stargazers_count": 60236,
-    "open_issues_count": 613,
-    "forks_count": 5888
+    "stargazers_count": 60314,
+    "open_issues_count": 614,
+    "forks_count": 5898
   },
   {
     "full_name": "jimmysuncpt/Algorithms",
-    "stargazers_count": 2030,
+    "stargazers_count": 2032,
     "open_issues_count": 7,
     "forks_count": 654
   },
@@ -61,20 +61,20 @@
   },
   {
     "full_name": "Huxpro/huxpro.github.io",
-    "stargazers_count": 6145,
+    "stargazers_count": 6151,
     "open_issues_count": 110,
-    "forks_count": 4154
+    "forks_count": 4153
   },
   {
     "full_name": "realpython/python-guide",
-    "stargazers_count": 24500,
+    "stargazers_count": 24520,
     "open_issues_count": 104,
     "forks_count": 5754
   },
   {
     "full_name": "webpack/webpack",
-    "stargazers_count": 60731,
-    "open_issues_count": 293,
-    "forks_count": 8294
+    "stargazers_count": 60752,
+    "open_issues_count": 287,
+    "forks_count": 8297
   }
 ]
