@@ -1,9 +1,9 @@
 [
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 636,
-    "open_issues_count": 15,
-    "forks_count": 209
+    "stargazers_count": 638,
+    "open_issues_count": 16,
+    "forks_count": 215
   },
   {
     "full_name": "Asana/python-asana",
@@ -13,31 +13,31 @@
   },
   {
     "full_name": "facebook/create-react-app",
-    "stargazers_count": 94295,
-    "open_issues_count": 1581,
-    "forks_count": 24280
+    "stargazers_count": 94348,
+    "open_issues_count": 1588,
+    "forks_count": 24301
   },
   {
     "full_name": "wechat-miniprogram/miniprogram-demo",
-    "stargazers_count": 5387,
+    "stargazers_count": 5396,
     "open_issues_count": 28,
     "forks_count": 1820
   },
   {
     "full_name": "github/opensource.guide",
-    "stargazers_count": 10363,
+    "stargazers_count": 10381,
     "open_issues_count": 2,
-    "forks_count": 14349
+    "forks_count": 14369
   },
   {
     "full_name": "typicode/json-server",
-    "stargazers_count": 60463,
-    "open_issues_count": 615,
-    "forks_count": 5922
+    "stargazers_count": 60520,
+    "open_issues_count": 614,
+    "forks_count": 5931
   },
   {
     "full_name": "jimmysuncpt/Algorithms",
-    "stargazers_count": 2035,
+    "stargazers_count": 2037,
     "open_issues_count": 7,
     "forks_count": 655
   },
@@ -61,20 +61,20 @@
   },
   {
     "full_name": "Huxpro/huxpro.github.io",
-    "stargazers_count": 6168,
+    "stargazers_count": 6171,
     "open_issues_count": 110,
-    "forks_count": 4160
+    "forks_count": 4159
   },
   {
     "full_name": "realpython/python-guide",
-    "stargazers_count": 24538,
+    "stargazers_count": 24547,
     "open_issues_count": 104,
-    "forks_count": 5757
+    "forks_count": 5758
   },
   {
     "full_name": "webpack/webpack",
-    "stargazers_count": 60776,
-    "open_issues_count": 287,
-    "forks_count": 8312
+    "stargazers_count": 60794,
+    "open_issues_count": 288,
+    "forks_count": 8313
   }
 ]
