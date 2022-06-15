@@ -1,43 +1,43 @@
 [
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 678,
-    "open_issues_count": 17,
-    "forks_count": 284
+    "stargazers_count": 696,
+    "open_issues_count": 16,
+    "forks_count": 288
   },
   {
     "full_name": "Asana/python-asana",
-    "stargazers_count": 250,
+    "stargazers_count": 251,
     "open_issues_count": 11,
     "forks_count": 75
   },
   {
     "full_name": "facebook/create-react-app",
-    "stargazers_count": 95415,
-    "open_issues_count": 1696,
-    "forks_count": 24699
+    "stargazers_count": 95502,
+    "open_issues_count": 1700,
+    "forks_count": 24727
   },
   {
     "full_name": "wechat-miniprogram/miniprogram-demo",
-    "stargazers_count": 5467,
+    "stargazers_count": 5468,
     "open_issues_count": 28,
-    "forks_count": 1846
+    "forks_count": 1847
   },
   {
     "full_name": "github/opensource.guide",
-    "stargazers_count": 10811,
-    "open_issues_count": 9,
-    "forks_count": 15119
+    "stargazers_count": 10840,
+    "open_issues_count": 2,
+    "forks_count": 15177
   },
   {
     "full_name": "typicode/json-server",
-    "stargazers_count": 61597,
+    "stargazers_count": 61663,
     "open_issues_count": 628,
-    "forks_count": 6065
+    "forks_count": 6070
   },
   {
     "full_name": "jimmysuncpt/Algorithms",
-    "stargazers_count": 2051,
+    "stargazers_count": 2052,
     "open_issues_count": 8,
     "forks_count": 653
   },
@@ -61,20 +61,20 @@
   },
   {
     "full_name": "Huxpro/huxpro.github.io",
-    "stargazers_count": 6221,
-    "open_issues_count": 115,
+    "stargazers_count": 6228,
+    "open_issues_count": 116,
     "forks_count": 4180
   },
   {
     "full_name": "realpython/python-guide",
-    "stargazers_count": 24887,
+    "stargazers_count": 24909,
     "open_issues_count": 104,
     "forks_count": 5789
   },
   {
     "full_name": "webpack/webpack",
-    "stargazers_count": 61198,
+    "stargazers_count": 61230,
     "open_issues_count": 311,
-    "forks_count": 8389
+    "forks_count": 8390
   }
 ]
