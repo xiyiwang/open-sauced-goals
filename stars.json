@@ -1,9 +1,9 @@
 [
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 723,
+    "stargazers_count": 725,
     "open_issues_count": 16,
-    "forks_count": 317
+    "forks_count": 319
   },
   {
     "full_name": "Asana/python-asana",
@@ -13,33 +13,33 @@
   },
   {
     "full_name": "facebook/create-react-app",
-    "stargazers_count": 96003,
-    "open_issues_count": 1720,
-    "forks_count": 24906
+    "stargazers_count": 96061,
+    "open_issues_count": 1728,
+    "forks_count": 24926
   },
   {
     "full_name": "wechat-miniprogram/miniprogram-demo",
-    "stargazers_count": 5494,
+    "stargazers_count": 5496,
     "open_issues_count": 28,
-    "forks_count": 1846
+    "forks_count": 1848
   },
   {
     "full_name": "github/opensource.guide",
-    "stargazers_count": 10980,
+    "stargazers_count": 10998,
     "open_issues_count": 2,
-    "forks_count": 15398
+    "forks_count": 15404
   },
   {
     "full_name": "typicode/json-server",
-    "stargazers_count": 62194,
-    "open_issues_count": 635,
-    "forks_count": 6121
+    "stargazers_count": 62279,
+    "open_issues_count": 637,
+    "forks_count": 6130
   },
   {
     "full_name": "jimmysuncpt/Algorithms",
-    "stargazers_count": 2065,
+    "stargazers_count": 2067,
     "open_issues_count": 10,
-    "forks_count": 654
+    "forks_count": 655
   },
   {
     "full_name": "ilithya/abstract-sketches-p5js",
@@ -61,20 +61,20 @@
   },
   {
     "full_name": "Huxpro/huxpro.github.io",
-    "stargazers_count": 6257,
+    "stargazers_count": 6259,
     "open_issues_count": 118,
-    "forks_count": 4197
+    "forks_count": 4198
   },
   {
     "full_name": "realpython/python-guide",
-    "stargazers_count": 25059,
+    "stargazers_count": 25072,
     "open_issues_count": 104,
-    "forks_count": 5786
+    "forks_count": 5787
   },
   {
     "full_name": "webpack/webpack",
-    "stargazers_count": 61402,
-    "open_issues_count": 315,
-    "forks_count": 8431
+    "stargazers_count": 61421,
+    "open_issues_count": 317,
+    "forks_count": 8433
   }
 ]
